@@ -16,3 +16,11 @@ background-color:#343a40!important
 .bg-primary{
 background-color:#007bff!important
 }
+
+/*header style*/
+.header{
+ background-image: url('../images/headerback.jpg');
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+}
