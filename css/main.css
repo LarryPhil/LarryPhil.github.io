@@ -17,7 +17,7 @@ background-color:#4169E1!important
 
 /*header style*/
 .header{
- background-image: url("././images/image.png");
+ background-image: url('../images/headerback.jpg');
  background-attachment: fixed;
  background-size: cover;
  background-position: center;
