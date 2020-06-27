@@ -1,17 +1,17 @@
-.navbar{ background:#F97300;}
+.navbar{ background:#cf040c;}
 
 .nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
 
 .nav-link{ margin-right: 1em !important;}
 
-.nav-link:hover{ background: #f4f4f4; color: #f97300; }
+.nav-link:hover{ background: #f4f4f4; color: #cf040c; }
 
 .navbar-collapse{ justify-content: flex-end;}
 
 .navbar-toggler{  background:#fff !important;}
 
 .bg-dark{
-background-color:#4169E1!important
+background-color:#cf040c!important
 }
 
 
