@@ -24,3 +24,12 @@ background-color:#007bff!important
  background-size: cover;
  background-position: center;
 }
+
+.overlay{
+ position: absolute;
+ min-height: 100%;
+ min-width: 100%;
+ left: 0;
+ top: 0;
+ background: rgba(244, 244, 244, 0.79);
+}
